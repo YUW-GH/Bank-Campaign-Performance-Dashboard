@@ -16,7 +16,7 @@ This interactive **Tableau dashboard** analyzes the performance of a marketing p
 
 - **Subscription Rate:** 47.38% of clients subscribed to the term deposit offer.
 - **Client Volume:** 11,162 clients were contacted; 5,289 subscribed.
-- **Highest Subscription Conversion:** December and February had the highest conversion rates (90.91%, 89.86%).
+- **Highest Subscription Conversion:** December and March had the highest conversion rates (90.91%, 89.86%).
 - **Channel Preference:** Majority of contacts were reached via cellular phones.
 - **Age Groups & Jobs:** Subscriptions are higher among clients aged 30–50, and common in management, blue-collar, and technician jobs.
 - **Education Impact:** Secondary and tertiary educated clients make up the largest portion of subscriptions.
