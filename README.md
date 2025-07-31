@@ -1,7 +1,6 @@
-# Bank-Campaign-Performance-Dashboard
 # Bank Phone Campaign Performance Dashboard
 
-![Dashboard Preview](./bank%20campion%20performance%20dashboard.png)
+![Dashboard Preview]((./campaign-dashboard/Preview_bank%20campion%20performance%20dashboard.png))
 
 ## Project Overview
 
