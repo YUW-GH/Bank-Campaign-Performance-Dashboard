@@ -1,6 +1,6 @@
 # Bank Phone Campaign Performance Dashboard
 
-![Dashboard Preview](Preview_bank%20campion%20performance%20dashboard)
+![Dashboard Preview](https://github.com/YUW-GH/Bank-Campaign-Performance-Dashboard/blob/main/Preview_bank%20campion%20performance%20dashboard.png)
 
 ## Project Overview
 
